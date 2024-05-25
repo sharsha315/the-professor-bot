@@ -104,3 +104,16 @@ You: exit
 Thank you, I am always here to help you on your learning journey. Goodbye!
 
 ```
+
+## Support
+
+If you like this project, please give it a star on GitHub!
+
+Follow me on social media for more updates:
+
+- [Tublian](https://www.tublian.com/profile/sharsha315)
+- [GitHub](https://github.com/sharsha315)
+- [X](https://www.X.com/sharsha315)
+- [LinkedIn](https://linkedin.com/in/sharsha315)
+
+Thank you for your support!
